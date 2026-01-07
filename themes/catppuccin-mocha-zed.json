@@ -103,6 +103,13 @@
     "editor.findMatchHighlightBackground": "#94e2d533",
     "editorBracketMatch.background": "#cba6f717",
     "editorBracketMatch.border": "#cba6f7",
+    "editorBracketHighlight.foreground1": "#9399b2",
+    "editorBracketHighlight.foreground2": "#9399b2",
+    "editorBracketHighlight.foreground3": "#9399b2",
+    "editorBracketHighlight.foreground4": "#9399b2",
+    "editorBracketHighlight.foreground5": "#9399b2",
+    "editorBracketHighlight.foreground6": "#9399b2",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#9399b2",
     "sideBar.border": "#313244",
     "activityBar.border": "#313244",
     "editorGroupHeader.tabsBorder": "#313244",
@@ -139,7 +146,7 @@
     {
       "scope": ["constant.numeric", "constant.language.boolean"],
       "settings": {
-        "foreground": "#f9e2af"
+        "foreground": "#fab387"
       }
     },
     {
