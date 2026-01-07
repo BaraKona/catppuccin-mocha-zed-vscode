@@ -1,0 +1,37 @@
+{
+  "name": "catppuccin-mocha-zed",
+  "displayName": "Catppuccin Mocha (Zed)",
+  "description": "I really liked the Catppuccin Mocha theme in the Zed editor.",
+  "version": "1.0.0",
+  "publisher": "barakona",
+  "author": {
+    "name": "barakona"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/barakona/catppuccin-mocha-zed-vscode"
+  },
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "catppuccin",
+    "mocha",
+    "zed",
+    "theme",
+    "dark"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Catppuccin Mocha (Zed)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/catppuccin-mocha-zed.json"
+      }
+    ]
+  }
+}
